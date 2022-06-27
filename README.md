@@ -4,7 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 
-Demo is hosted on : hibijay-calculator-worksfine.netlify.app
+Demo is hosted on : [hibijay-calculator-worksfine.netlify.app](https://hibijay-calculator-worksfine.netlify.app/)
+
+
+![image](https://user-images.githubusercontent.com/106948202/175874948-77906042-3dbc-490e-b3cf-6ddbbaf6a880.png)
+
+
+Made with 💖
 
 ## Available Scripts
 
